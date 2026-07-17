@@ -1,0 +1,5 @@
+SupplierId|Name|Email|Contact
+1|John Doe|john.doe@example.com|1234567890
+2|Jane Smith|jane.smith@example.com|0987654321
+3|Acme Corp|contact@acmecorp.com|1112223333
+4|Global Suppliers|info@globalsuppliers.com|4445556666

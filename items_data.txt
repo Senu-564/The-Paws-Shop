@@ -1,0 +1,7 @@
+SupplierName|Category|Price|Payment|TotalItems
+John Adam|Foods|299.99|15000.0|50
+Alice Brown|Grooming|799.99|16000.0|20
+Chris Carter|Harnesses|49.99|5000.0|100
+Victor Davis|Toys|2.99|2500.0|200
+Frank Evans|Toys|19.99|3000.0|150
+Anna Foster|Toys|111.0|214.0|11

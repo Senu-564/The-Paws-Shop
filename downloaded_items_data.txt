@@ -1,0 +1,7 @@
+Item Category	Total Items	Item Price	Supplier Name	Supplier Payment
+Foods	50	299.99	aa	15000.0
+Grooming	20	799.99	aa	16000.0
+Harnesses	100	49.99	cc C	5000.0
+Toys	200	2.99	vv D	2500.0
+Toys	150	19.99	fgf E	3000.0
+Toys	11	111.0	aaa	214.0
